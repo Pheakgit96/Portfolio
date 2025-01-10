@@ -1,5 +1,5 @@
 import { useState } from "react";
-import HeaderLeft from "./components/Headerleft";
+import HeaderLeft from "./components/HeaderLeft";
 import Home from "./components/Home";
 
 function App() {
